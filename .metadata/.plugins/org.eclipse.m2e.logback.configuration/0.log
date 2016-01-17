@@ -4345,3 +4345,123 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 2016-01-17 10:55:36,394 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
 2016-01-17 10:55:36,398 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-01-17 10:55:36,398 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:08:26,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:08:26,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:08:26,170 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:08:26,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:08:26,173 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:08:31,746 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:08:31,746 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:08:31,746 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:08:31,748 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:08:31,748 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:09:40,093 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:09:40,093 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:09:40,093 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:09:40,096 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:09:40,096 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:10:30,004 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:10:30,005 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:10:30,005 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:10:30,006 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:10:30,006 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:10:55,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:10:55,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:10:55,285 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:10:55,287 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:10:55,288 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:11:01,532 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:11:01,533 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:11:01,533 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/main/resources
+2016-01-17 11:11:01,535 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:11:01,535 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-consuming-rest-initial/src/test/resources
+2016-01-17 11:16:51,109 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:16:52,077 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-tx/4.2.4.RELEASE/spring-tx-4.2.4.RELEASE.pom
+2016-01-17 11:16:52,347 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-tx/4.2.4.RELEASE/spring-tx-4.2.4.RELEASE.pom
+2016-01-17 11:16:52,507 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.pom
+2016-01-17 11:16:52,654 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.pom
+2016-01-17 11:16:52,814 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/h2database/h2/1.4.190/h2-1.4.190.pom
+2016-01-17 11:16:52,974 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/h2database/h2/1.4.190/h2-1.4.190.pom
+2016-01-17 11:16:53,264 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-tx/4.2.4.RELEASE/spring-tx-4.2.4.RELEASE.jar
+2016-01-17 11:16:54,118 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-tx/4.2.4.RELEASE/spring-tx-4.2.4.RELEASE.jar
+2016-01-17 11:16:54,292 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.jar
+2016-01-17 11:16:54,993 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/org/springframework/spring-jdbc/4.2.4.RELEASE/spring-jdbc-4.2.4.RELEASE.jar
+2016-01-17 11:16:55,163 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/libs-release/com/h2database/h2/1.4.190/h2-1.4.190.jar
+2016-01-17 11:16:57,192 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-release/com/h2database/h2/1.4.190/h2-1.4.190.jar
+2016-01-17 11:16:57,581 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:16:58,043 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:16:58,287 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:16:58,288 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:16:58,440 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:16:58,449 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:16:58,870 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:16:59,306 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:16:59,306 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:16:59,375 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:16:59,389 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:16:59,907 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:17:00,390 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:17:00,390 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:17:00,445 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2016-01-17 11:17:00,448 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:00,803 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:17:01,044 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:17:01,050 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:17:01,110 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:01,119 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:17:01,123 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:17:01,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:01,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:17:01,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:17:01,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:01,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:17:02,103 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2016-01-17 11:17:02,106 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:02,474 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/pom.xml.
+2016-01-17 11:17:02,751 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/main/java
+2016-01-17 11:17:02,751 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-initial/src/test/java
+2016-01-17 11:17:02,799 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:02,979 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:03,294 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:03,450 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:03,540 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:03,540 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:03,613 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:03,619 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:03,751 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:04,061 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:04,061 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:04,113 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:04,119 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:04,279 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:04,608 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:04,608 [Worker-30] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:04,659 [Worker-30] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:04,667 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:04,805 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:05,084 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:05,084 [Worker-28] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:05,121 [Worker-28] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:05,150 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:05,151 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:05,271 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-01-17 11:17:05,272 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 11:17:05,402 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-managing-transactions:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/pom.xml.
+2016-01-17 11:17:05,732 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/main/java
+2016-01-17 11:17:05,733 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-managing-transactions-complete/src/test/java
+2016-01-17 11:17:05,778 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 11:17:06,053 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:06,053 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/main/resources
+2016-01-17 11:17:06,053 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/main/resources
+2016-01-17 11:17:06,056 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:06,056 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/test/resources
+2016-01-17 11:17:06,207 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:06,207 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:17:06,207 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:17:06,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:06,208 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:17:07,247 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:07,247 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/main/resources
+2016-01-17 11:17:07,248 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/main/resources
+2016-01-17 11:17:07,249 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:17:07,250 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/test/resources
