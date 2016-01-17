@@ -7689,3 +7689,6 @@ java.lang.ClassNotFoundException: org.eclipse.buildship.core.projectimport.Proje
 
 !ENTRY org.eclipse.wst.common.project.facet.core 4 0 2016-01-17 11:17:01.505
 !MESSAGE Project facet grails.app has not been defined. It is used in plugin org.eclipse.cft.server.branding.core.
+
+!ENTRY org.eclipse.jdt.core 4 969 2016-01-17 11:20:57.296
+!MESSAGE import org.springframework.transaction.annotation.Tra [in <import container> [in [Working copy] BookingService.java [in hello [in src/main/java [in gs-managing-transactions-initial]]]]] does not exist

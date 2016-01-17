@@ -4465,3 +4465,503 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 2016-01-17 11:17:07,248 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/main/resources
 2016-01-17 11:17:07,249 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-01-17 11:17:07,250 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-complete/src/test/resources
+2016-01-17 11:18:39,513 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:18:39,513 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:18:39,513 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:18:39,514 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:18:39,515 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:19:18,404 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:19:18,404 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:19:18,404 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:19:18,405 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:19:18,405 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:20:02,670 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:02,670 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:02,670 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:02,671 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:02,671 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:20:20,481 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:20,481 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:20,482 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:20,483 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:20,483 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:20:37,308 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:37,309 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:37,309 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:20:37,312 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:20:37,312 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:21:00,186 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:00,186 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:00,187 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:00,188 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:00,188 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:21:34,231 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:34,235 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:34,235 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:34,237 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:34,237 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:21:44,633 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:44,633 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:44,633 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:44,635 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:44,635 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:21:53,212 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:53,212 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:53,212 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:21:53,214 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:21:53,214 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:22:19,068 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:19,068 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:19,068 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:19,069 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:19,069 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:22:35,696 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:35,696 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:35,696 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:35,698 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:35,698 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:22:58,797 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:58,797 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:58,797 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:22:58,799 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:22:58,799 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:24,992 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:24,996 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:24,996 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:24,999 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:24,999 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:30,567 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:30,567 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:30,567 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:30,569 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:30,569 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:39,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:39,213 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:39,213 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:39,214 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:39,214 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:43,385 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:43,385 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:43,385 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:43,386 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:43,386 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:46,314 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:46,314 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:46,314 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:46,315 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:46,315 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:52,759 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:52,759 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:52,759 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:52,760 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:52,760 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:23:55,906 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:55,907 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:55,907 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:23:55,908 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:23:55,909 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:24:04,110 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:24:04,110 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:24:04,110 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:24:04,111 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:24:04,111 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:24:57,936 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:24:57,937 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:24:57,937 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:24:57,938 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:24:57,938 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:25:11,505 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:11,505 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:11,505 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:11,506 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:11,507 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:25:15,646 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:15,646 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:15,646 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:15,647 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:15,648 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:25:42,650 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:42,655 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:42,655 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:25:42,656 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:25:42,656 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:26:17,301 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:17,301 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:17,301 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:17,303 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:17,303 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:26:32,077 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:32,077 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:32,077 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:32,078 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:32,078 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:26:36,040 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:36,040 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:36,040 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:26:36,042 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:26:36,042 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:32:52,909 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:32:52,909 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:32:52,909 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:32:52,911 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:32:52,911 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:33:34,124 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:33:34,128 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:33:34,128 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:33:34,130 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:33:34,130 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:33:52,217 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:33:52,217 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:33:52,217 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:33:52,219 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:33:52,219 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:34:37,056 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:34:37,056 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:34:37,056 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:34:37,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:34:37,057 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:34:38,070 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:34:38,070 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:34:38,070 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:34:38,072 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:34:38,072 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:35:04,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:04,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:04,632 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:04,634 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:04,634 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:35:18,409 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:18,409 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:18,409 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:18,411 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:18,411 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:35:35,195 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:35,195 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:35,195 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:35,196 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:35,197 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:35:51,716 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:51,717 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:51,717 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:35:51,719 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:35:51,719 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:36:01,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:36:01,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:36:01,371 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:36:01,372 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:36:01,373 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 11:37:22,669 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:37:22,674 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:37:22,674 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 11:37:22,675 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 11:37:22,675 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:09:03,187 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:09:03,201 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:09:03,202 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:09:03,203 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:09:03,203 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:09:35,440 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:09:35,440 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:09:35,441 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:09:35,442 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:09:35,442 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:10:09,350 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:09,350 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:09,350 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:09,351 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:09,351 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:10:21,800 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:21,801 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:21,801 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:21,802 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:21,802 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:10:43,949 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:43,949 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:43,949 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:43,950 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:43,950 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:10:58,374 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:58,374 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:58,374 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:10:58,376 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:10:58,376 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:11:30,137 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:30,137 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:30,138 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:30,139 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:30,139 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:11:34,852 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:34,852 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:34,852 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:34,853 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:34,853 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:11:49,486 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:49,487 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:49,487 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:11:49,488 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:11:49,488 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:12:16,684 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:12:16,684 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:12:16,684 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:12:16,685 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:12:16,685 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:14:23,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:14:23,403 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:14:23,403 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:14:23,412 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:14:23,412 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:14:24,946 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:14:24,947 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:14:24,947 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:14:24,948 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:14:24,948 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:00,236 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:00,236 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:00,236 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:00,237 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:00,238 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:03,707 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:03,707 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:03,707 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:03,708 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:03,708 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:12,069 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:12,070 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:12,070 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:12,072 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:12,072 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:29,427 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:29,427 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:29,427 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:29,429 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:29,429 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:43,016 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:43,017 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:43,017 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:43,018 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:43,018 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:15:58,518 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:58,518 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:58,518 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:15:58,519 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:15:58,519 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:17,266 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:17,266 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:17,266 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:17,267 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:17,267 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:22,311 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:22,311 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:22,311 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:22,313 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:22,313 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:23,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:23,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:23,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:23,323 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:23,324 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:25,831 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:25,831 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:25,831 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:25,832 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:25,832 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:37,690 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:37,690 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:37,690 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:37,691 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:37,692 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:16:52,284 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:52,284 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:52,284 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:16:52,286 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:16:52,286 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:17:06,008 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:17:06,008 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:17:06,008 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:17:06,010 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:17:06,010 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:17:59,151 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:17:59,151 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:17:59,151 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:17:59,152 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:17:59,152 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:18:15,538 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:18:15,538 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:18:15,538 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:18:15,539 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:18:15,539 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:18:27,125 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:18:27,125 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:18:27,125 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:18:27,126 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:18:27,126 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:19:14,267 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:14,271 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:14,271 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:14,272 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:14,272 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:19:17,719 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:17,719 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:17,719 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:17,720 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:17,720 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:19:19,398 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:19,399 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:19,399 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:19,400 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:19,400 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:19:57,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:57,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:57,470 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:19:57,471 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:19:57,471 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:20:07,450 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:07,450 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:07,450 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:07,452 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:07,452 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:20:10,838 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:10,838 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:10,838 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:10,839 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:10,839 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:20:42,395 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:42,395 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:42,395 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:20:42,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:20:42,396 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:21:05,818 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:21:05,818 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:21:05,818 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:21:05,819 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:21:05,819 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:21:59,150 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:21:59,150 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:21:59,150 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:21:59,152 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:21:59,152 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:03,517 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:03,517 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:03,517 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:03,518 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:03,518 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:08,257 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:08,257 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:08,257 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:08,259 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:08,259 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:09,269 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:09,269 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:09,269 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:09,272 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:09,272 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:18,034 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:18,035 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:18,035 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:18,037 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:18,037 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:28,884 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:28,884 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:28,885 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:28,886 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:28,886 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:34,652 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:34,652 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:34,652 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:34,653 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:34,653 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:40,351 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:40,352 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:40,352 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:40,353 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:40,353 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:50,561 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:50,562 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:50,562 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:50,563 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:50,563 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:22:57,587 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:57,587 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:57,587 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:22:57,588 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:22:57,588 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:24,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:24,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:24,569 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:24,570 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:24,570 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:37,214 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:37,214 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:37,214 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:37,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:37,215 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:45,865 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:45,865 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:45,865 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:45,866 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:45,866 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:50,276 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:50,276 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:50,276 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:50,278 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:50,278 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:51,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:51,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:51,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:51,292 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:51,293 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:23:59,242 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:59,242 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:59,242 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:23:59,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:23:59,243 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:24:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:04,841 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:04,843 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:04,843 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:24:21,740 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:21,740 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:21,740 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:21,741 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:21,741 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:24:24,507 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:24,507 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:24,507 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:24,509 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:24,509 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:24:59,367 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:59,367 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:59,367 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:24:59,369 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:24:59,369 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:06,356 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:06,356 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:06,356 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:06,357 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:06,358 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:07,515 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:07,516 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:07,516 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:07,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:07,517 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:23,147 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:23,147 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:23,147 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:23,148 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:23,148 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:26,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:26,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:26,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:26,892 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:26,892 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:48,117 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:48,117 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:48,117 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:48,118 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:48,118 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
+2016-01-17 12:25:55,307 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:55,307 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:55,307 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/main/resources
+2016-01-17 12:25:55,308 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 12:25:55,309 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-managing-transactions-initial/src/test/resources
