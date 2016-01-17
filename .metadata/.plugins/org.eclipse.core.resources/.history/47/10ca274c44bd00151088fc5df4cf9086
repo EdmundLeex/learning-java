@@ -1,0 +1,13 @@
+package hello;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknow = true)
+public class Value {
+	
+	private Long id;
+	private String quote;
+	
+	public Value() {
+	}
+}
