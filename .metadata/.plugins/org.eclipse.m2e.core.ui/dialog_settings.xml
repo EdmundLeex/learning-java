@@ -31,6 +31,20 @@
 		<list key="issueManagementUrl">
 		</list>
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/user/Nitrous/java/workspace/spring-hiberate"/>
+			<item value="/Users/user/Nitrous/java/workspace/spring-hibernate"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -44,6 +58,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/user/Nitrous/java/workspace/spring-hiberate"/>
+			<item value="/Users/user/Nitrous/java/workspace/spring-hibernate"/>
 			<item value="/Users/user/Nitrous/java/workspace/SpringDemo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -57,13 +73,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="us.edmund.basic_web_app"/>
 		</list>
 		<list key="groupId">
-			<item value="us.edmund"/>
 		</list>
 		<list key="artifactId">
-			<item value="basic-web-app"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

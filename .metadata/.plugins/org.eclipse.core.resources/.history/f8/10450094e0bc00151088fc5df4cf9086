@@ -1,7 +1,0 @@
-package hello;
-
-import java.util.concurrent.atomic.Atomiclog;
-
-public class GreetingController {
-
-}

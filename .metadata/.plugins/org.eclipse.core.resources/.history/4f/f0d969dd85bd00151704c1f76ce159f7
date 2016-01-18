@@ -1,0 +1,11 @@
+package hello;
+
+import java.io.File;
+import javax.jms.ConnectionFactory;
+import javax.jms.JMSException;
+import javax.jms.Message;
+import javax.jms.Session;
+
+public class Application {
+
+}

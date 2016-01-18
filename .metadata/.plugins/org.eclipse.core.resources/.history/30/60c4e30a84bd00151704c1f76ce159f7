@@ -1,0 +1,7 @@
+package hello;
+
+import java.io.File;
+
+public class Receiver {
+
+}

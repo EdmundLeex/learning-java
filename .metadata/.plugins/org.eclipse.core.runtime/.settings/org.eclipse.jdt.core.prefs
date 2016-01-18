@@ -15,4 +15,3 @@ org.eclipse.jdt.core.compiler.compliance=1.7
 org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 org.eclipse.jdt.core.compiler.source=1.7
-org.eclipse.jdt.core.userLibrary.springframework=<?xml version\="1.0" encoding\="UTF-8"?>\n<userlibrary systemlibrary\="false" version\="2">\n\t<archive path\="/Users/user/Nitrous/java/spring-framework-4.2.4.RELEASE/buildSrc/build/libs/buildSrc.jar"/>\n</userlibrary>\n

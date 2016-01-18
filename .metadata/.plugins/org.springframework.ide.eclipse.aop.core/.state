@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="gs-relational-data-access-initial"/>
 <aop-project name="gs-consuming-rest-initial"/>
+<aop-project name="gs-validating-form-input-initial"/>
+<aop-project name="gs-messaging-jms-initial"/>
+<aop-project name="gs-scheduling-tasks-initial"/>
+<aop-project name="gs-serving-web-content-initial"/>
+<aop-project name="spring-hiberate"/>
+<aop-project name="gs-managing-transactions-initial"/>
 </aop-reference-model>
