@@ -5841,3 +5841,584 @@ org.eclipse.core.runtime.CoreException: Launch configuration Application referen
 2016-01-17 16:49:58,216 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-01-17 16:49:58,217 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-01-17 16:49:58,217 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-serving-web-content-initial/src/test/resources
+2016-01-17 16:56:47,453 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:56:47,455 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 16:56:47,456 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 16:56:47,457 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:56:47,457 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-serving-web-content-initial/src/test/resources
+2016-01-17 16:57:03,788 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:06,801 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-serving-web-content:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-serving-web-content-initial/pom.xml.
+2016-01-17 16:57:07,100 [Worker-82] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:07,373 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:07,559 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:07,559 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:07,635 [Worker-82] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:07,646 [Worker-87] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:07,924 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:08,240 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:08,240 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:08,292 [Worker-87] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:08,296 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:08,297 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:08,582 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:08,763 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:08,763 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:08,808 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:08,809 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:09,058 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:09,253 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:09,254 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:09,297 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:09,298 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:09,390 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2016-01-17 16:57:09,391 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:09,665 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/pom.xml.
+2016-01-17 16:57:09,867 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/main/java
+2016-01-17 16:57:09,867 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-initial/src/test/java
+2016-01-17 16:57:09,916 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:10,043 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:10,317 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:10,447 [Worker-88] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:10,590 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:10,590 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:10,591 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:10,591 [Worker-88] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:10,654 [Worker-88] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:10,658 [Worker-82] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:10,758 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:11,025 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:11,025 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,026 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,026 [Worker-82] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:11,071 [Worker-82] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:11,075 [Worker-87] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:11,159 [Worker-87] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:11,417 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:11,417 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,418 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,418 [Worker-87] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:11,464 [Worker-87] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:11,477 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:11,618 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:11,890 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:11,890 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,891 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,891 [Worker-84] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:11,932 [Worker-84] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:11,934 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:11,935 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,936 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:11,945 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:12,033 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-01-17 16:57:12,034 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-17 16:57:12,120 [Worker-86] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework:gs-validating-form-input:0.1.0 @ /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/pom.xml.
+2016-01-17 16:57:12,270 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/main/java
+2016-01-17 16:57:12,271 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:12,272 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs-validating-form-input-complete/src/main/resources
+2016-01-17 16:57:12,273 [Worker-86] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs-validating-form-input-complete/src/test/java
+2016-01-17 16:57:12,317 [Worker-86] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-01-17 16:57:12,581 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:12,582 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 16:57:12,582 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 16:57:12,584 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:12,584 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-serving-web-content-initial/src/test/resources
+2016-01-17 16:57:12,774 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:12,774 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 16:57:12,774 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2016-01-17 16:57:12,781 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:12,781 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/src/test/resources
+2016-01-17 16:57:13,073 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:13,073 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:57:13,073 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:57:13,074 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:13,074 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 16:57:14,107 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:14,108 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 16:57:14,108 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 16:57:14,110 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:14,110 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-complete/src/test/resources
+2016-01-17 16:57:14,115 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:14,115 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:57:14,116 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:57:14,117 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:57:14,117 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 16:58:59,487 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:58:59,487 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:58:59,487 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:58:59,488 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:58:59,488 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 16:59:25,310 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:59:25,311 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:59:25,311 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:59:25,312 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:59:25,312 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 16:59:52,173 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:59:52,173 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:59:52,173 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 16:59:52,174 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 16:59:52,174 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:05,060 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:05,060 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:05,061 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:05,063 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:05,063 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:12,088 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:12,088 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:12,088 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:12,089 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:12,089 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:18,074 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:18,074 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:18,074 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:18,075 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:18,075 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:33,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:33,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:33,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:33,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:33,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:36,660 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:36,661 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:36,661 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:36,662 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:36,662 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:49,193 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:49,193 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:49,193 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:49,194 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:49,195 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:00:52,633 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:52,633 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:52,633 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:00:52,634 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:00:52,634 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:01:07,321 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:01:07,321 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:01:07,321 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:01:07,322 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:01:07,322 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:01:08,335 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:01:08,335 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:01:08,335 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:01:08,337 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:01:08,337 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:02:03,776 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:03,777 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:03,777 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:03,778 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:03,778 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:02:14,037 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:14,037 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:14,037 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:14,038 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:14,038 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:02:48,938 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:48,938 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:48,938 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:02:48,939 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:02:48,939 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:03:18,227 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:03:18,227 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:03:18,227 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:03:18,228 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:03:18,228 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:03:30,907 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:03:30,907 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:03:30,907 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:03:30,908 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:03:30,908 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:04:05,127 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:05,127 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:05,127 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:05,128 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:05,128 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:04:27,763 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:27,763 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:27,763 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:27,764 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:27,764 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:04:39,755 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:39,755 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:39,755 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:04:39,756 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:04:39,756 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:05:11,427 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:11,427 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:11,427 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:11,428 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:11,428 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:05:37,664 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:37,664 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:37,664 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:37,665 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:37,665 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:05:45,127 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:45,127 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:45,127 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:05:45,128 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:05:45,128 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:06:22,464 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:06:22,464 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:06:22,464 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:06:22,465 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:06:22,465 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:06:44,479 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:06:44,479 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:06:44,479 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:06:44,480 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:06:44,480 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:07:18,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:07:18,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:07:18,148 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:07:18,149 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:07:18,149 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:07:24,898 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:07:24,898 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:07:24,898 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:07:24,899 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:07:24,899 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:08:15,317 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:15,317 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:15,317 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:15,318 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:15,318 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:08:25,464 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:25,464 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:25,464 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:25,465 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:25,465 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:08:29,527 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:29,527 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:29,527 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:29,528 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:29,528 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:08:31,570 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:31,570 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:31,570 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:31,571 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:31,571 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:08:51,984 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:51,984 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:51,984 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:08:51,986 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:08:51,986 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:09:16,094 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:16,094 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:16,094 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:16,095 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:16,095 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:09:26,810 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:26,810 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:26,810 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:26,811 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:26,811 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:09:33,760 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:33,760 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:33,760 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:33,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:33,761 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:09:57,791 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:57,791 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:57,791 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:09:57,792 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:09:57,792 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:10:26,562 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:10:26,562 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:10:26,562 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/main/resources
+2016-01-17 17:10:26,563 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:10:26,563 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:16:56,441 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:16:56,441 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:16:56,442 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:16:56,442 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:16:56,442 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:17:22,883 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:17:22,883 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:17:22,883 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:17:22,884 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:17:22,884 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:18:12,066 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:12,066 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:12,066 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:18:12,067 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:12,067 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:18:34,407 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:34,407 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:34,408 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:34,410 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:34,410 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:18:42,086 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:42,086 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:42,086 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:42,088 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:42,088 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:18:49,457 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:49,457 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:49,458 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:49,459 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:49,459 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:18:58,904 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:58,904 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:58,905 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:18:58,906 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:18:58,906 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:09,008 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:09,008 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:09,008 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:09,010 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:09,010 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:18,789 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:18,789 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:18,790 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:18,791 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:18,791 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:23,931 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:23,931 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:23,932 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:23,933 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:23,933 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:28,592 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:28,593 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:28,593 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:28,595 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:28,595 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:43,012 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:43,012 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:43,013 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:43,015 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:43,015 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:19:57,924 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:57,925 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:19:57,925 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:19:57,927 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:19:57,927 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:04,082 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:04,083 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:04,083 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:04,085 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:04,085 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:05,985 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:05,986 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:05,986 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:05,987 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:05,987 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:17,396 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:17,396 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:17,396 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:17,399 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:17,399 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:29,842 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:29,843 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:29,843 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:29,844 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:29,844 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:39,687 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:39,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:39,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:39,689 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:39,689 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:20:59,211 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:59,211 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:20:59,212 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:20:59,214 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:20:59,214 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:03,566 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:03,566 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:03,567 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:03,569 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:03,569 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:10,978 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:10,979 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:10,979 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:10,980 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:10,980 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:34,999 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:34,999 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:34,999 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:35,001 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:35,001 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:38,313 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:38,314 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:38,315 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:38,318 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:38,318 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:44,605 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:44,605 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:44,606 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:44,607 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:44,607 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:51,144 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:51,144 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:51,144 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:51,146 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:51,146 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:21:59,357 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:59,358 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:21:59,358 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:21:59,360 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:21:59,360 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:00,387 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:00,387 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:00,387 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:00,389 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:00,389 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:05,935 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:05,936 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:05,936 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:05,938 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:05,938 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:12,916 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:12,916 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:12,916 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:12,918 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:12,918 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:13,926 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:13,927 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:13,927 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:13,928 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:13,928 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:19,900 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:19,901 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:19,901 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:19,903 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:19,903 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:41,513 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:41,513 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:41,513 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:41,515 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:41,515 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:50,000 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:50,000 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:50,001 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:50,003 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:50,003 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:22:53,597 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:53,597 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:22:53,598 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:22:53,599 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:22:53,599 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:23:33,051 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:33,051 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:23:33,051 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:23:33,053 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:33,053 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:23:39,174 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:39,174 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:23:39,174 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:23:39,175 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:39,175 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:23:43,876 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:43,877 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:23:43,877 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:23:43,879 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:43,879 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:23:57,077 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:57,078 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:23:57,078 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:23:57,079 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:23:57,079 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:24:01,394 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:24:01,394 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:24:01,394 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:24:01,396 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:24:01,396 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:27:43,808 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:27:43,812 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:27:43,812 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:27:43,815 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:27:43,815 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:28:22,621 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:28:22,621 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:28:22,622 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-01-17 17:28:22,623 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:28:22,623 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:28:40,858 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:28:40,858 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:28:40,858 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:28:40,859 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:28:40,859 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:07,289 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:07,289 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:07,289 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:07,290 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:07,290 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:20,982 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:20,983 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:20,983 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:20,984 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:20,984 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:25,063 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:25,063 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:25,063 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:25,064 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:25,064 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:31,785 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:31,785 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:31,785 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:31,786 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:31,787 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:39,525 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:39,525 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:39,525 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:39,526 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:39,526 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:41,224 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:41,224 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:41,224 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:41,225 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:41,225 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:29:53,513 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:53,513 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:53,513 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:29:53,514 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:29:53,514 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:02,917 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:02,917 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:02,917 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:02,918 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:02,919 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:12,508 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:12,508 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:12,508 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:12,510 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:12,510 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:23,221 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:23,221 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:23,221 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:23,222 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:23,222 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:39,379 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:39,383 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:39,383 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:39,385 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:39,385 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:40,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:40,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:40,688 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:40,689 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:40,689 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:30:49,739 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:49,739 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:49,739 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:30:49,740 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:30:49,740 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:33:31,364 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:31,369 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:31,369 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:31,370 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:31,370 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:33:34,602 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:34,602 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:34,602 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:34,603 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:34,604 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:33:38,637 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:38,637 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:38,638 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:33:38,639 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:33:38,639 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
+2016-01-17 17:34:13,493 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:34:13,493 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:34:13,493 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-01-17 17:34:13,494 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-17 17:34:13,494 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/user/Nitrous/java/workspace/gs-validating-form-input-initial/src/test/resources
