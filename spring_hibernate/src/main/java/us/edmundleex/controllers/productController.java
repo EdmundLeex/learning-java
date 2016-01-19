@@ -20,6 +20,12 @@ public class productController {
         this.productService = productService;
     }
 
+    @RequestMapping(value = "/", method = RequestMethod.GET)
+    public String listProducts(Model model) {
+        model.addAttribute("products", productService.listAllProducts());
+        return "products_index";
+    }
+
     @RequestMapping("product/new")
     public String newProduct(Model model) {
         model.addAttribute("product", new Product());
@@ -36,12 +42,6 @@ public class productController {
     public String showProduct(@PathVariable Integer id, Model model) {
         model.addAttribute("product", productService.getProductById(id));
         return "product_show";
-    }
-
-    @RequestMapping(value = "/products", method = RequestMethod.GET)
-    public String listProducts(Model model) {
-        model.addAttribute("products", productService.listAllProducts());
-        return "products_index";
     }
 
     @RequestMapping("product/edit/{id}")
